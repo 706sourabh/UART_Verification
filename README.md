@@ -1,5 +1,4 @@
 # UART_Verification
-# UART_Verification
 UART Verification Environment (SystemVerilog)
 
 This repository contains a SystemVerilog Verification Environment for a UART (Universal Asynchronous Receiver Transmitter).  
